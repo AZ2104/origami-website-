@@ -1,0 +1,340 @@
+.header{
+    background-color:plum;
+    color:rebeccapurple;
+    border:3px solid rebeccapurple;
+    display: flex;
+    justify-content: center;
+}
+
+.img1{
+display: flex; 
+justify-content:space-between;
+border: 3px solid#D3C6DF;
+margin: 25px;
+}
+
+.img1 img{
+    border:10px solid#D3C6DF;
+}
+
+.second {
+    display: flex;
+    justify-content:space-between;
+    border: 3px solid#F7E3EE;
+    margin: 25px;
+}
+
+.second img{
+    border: 10px solid#F7E3EE; 
+}
+
+.third {
+    display: flex;
+    justify-content:space-between;   
+    border: 3px solid#FFB38A;
+    margin: 25px;
+}
+
+.third img{
+    border: 10px solid#FFB38A;
+}
+
+.fourth {
+    display: flex;
+    justify-content:space-between; 
+    border: 3px solid#89CFF0;
+    margin: 25px;
+}
+
+.fourth img{
+    border: 10px solid #89CFF0;  
+}
+
+.fifth {
+    display: flex;
+    justify-content:space-between; 
+    border: 3px solid#40E0D0;
+    margin: 25px;
+}
+
+.fifth img{
+    border: 10px solid #40E0D0;
+}
+
+.last{
+    display: flex;
+    justify-content:space-between; 
+    border: 3px solid#C5F5C4;
+    margin: 25px;
+}
+
+.last img{
+    border: 10px solid#C5F5C4;
+}
+
+.conclusion{
+    background-color:plum;
+    color:rebeccapurple;
+    border:3px solid rebeccapurple;
+    display: flex;
+    justify-content: center;
+}
+
+.step1{
+    position:relative;
+}
+
+.step1 h3{
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%,-70%);
+opacity: 0;
+}
+
+.step1:hover h3{
+    opacity:1;
+
+}
+
+.step1:hover img{
+    opacity:0.5;
+}
+
+.step2{
+    position:relative;
+}
+
+.step2 h3{
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%,-70%);
+opacity: 0;
+}
+
+.step2:hover h3{
+    opacity:1;
+
+}
+
+.step2:hover img{
+    opacity:0.5;
+}
+
+.step3{
+    position:relative;
+}
+
+.step3 h3{
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%,-70%);
+opacity: 0;
+}
+
+.step3:hover h3{
+    opacity:1;
+
+}
+
+.step3:hover img{
+    opacity:0.5;
+}
+.step4{
+    position:relative;
+}
+
+.step4 h3{
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%,-70%);
+opacity: 0;
+}
+
+.step4:hover h3{
+    opacity:1;
+
+}
+
+.step4:hover img{
+    opacity:0.5;
+}
+.step5{
+    position:relative;
+}
+
+.step5 h3{
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%,-70%);
+opacity: 0;
+}
+
+.step5:hover h3{
+    opacity:1;
+
+}
+
+.step5:hover img{
+    opacity:0.5;
+}
+
+
+.step6{
+    position:relative;
+}
+
+.step6 h3{
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%,-70%);
+opacity: 0;
+}
+
+.step6:hover h3{
+    opacity:1;
+
+}
+
+.step6:hover img{
+    opacity:0.5;
+}
+
+.step7{
+    position:relative;
+}
+
+.step7 h3{
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%,-70%);
+opacity: 0;
+}
+
+.step7:hover h3{
+    opacity:1;
+
+}
+
+.step7:hover img{
+    opacity:0.5;
+}
+
+.step8{
+    position:relative;
+}
+
+.step8 h3{
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%,-70%);
+opacity: 0;
+}
+
+.step8:hover h3{
+    opacity:1;
+
+}
+
+.step8:hover img{
+    opacity:0.5;
+}
+
+.step9{
+    position:relative;
+}
+
+.step9 h3{
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%,-70%);
+opacity: 0;
+}
+
+.step9:hover h3{
+    opacity:1;
+
+}
+
+.step9:hover img{
+    opacity:0.5;
+}
+
+.step10{
+    position:relative;
+}
+
+.step10 h3{
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%,-70%);
+opacity: 0;
+}
+
+.step10:hover h3{
+    opacity:1;
+
+}
+
+.step10:hover img{
+    opacity:0.5;
+}
+
+.step11{
+    position:relative;
+}
+
+.step11 h3{
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%,-70%);
+opacity: 0;
+}
+
+.step11:hover h3{
+    opacity:1;
+
+}
+
+.step11:hover img{
+    opacity:0.5;
+}
+
+.step12{
+    position:relative;
+}
+
+.step12 h3{
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%,-70%);
+opacity: 0;
+}
+
+.step12:hover h3{
+    opacity:1;
+
+}
+
+.step12:hover img{
+    opacity:0.5;
+}
+
+
+
+
+
+
+
+
